@@ -13,7 +13,7 @@
 # 👨‍💻 My tech stack 📚
 
 <table>
-    <tr>
+  <tr>
     <th>Frameworks</th>
     <td>
       <img src="https://img.shields.io/badge/-springboot-FFFFFF.svg?&style=for-the-badge&logo=springboot&logoColor=6DB33F" />
