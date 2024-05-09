@@ -11,47 +11,47 @@
 </table>
 
 # 👨‍💻 My tech stack 📚
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/-java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-javascript-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-html5-FFFFFF.svg?&style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS3-FFFFFF.svg?&style=for-the-badge&logo=CSS3&logoColor=1572B6" />
-</p>
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/-mariadb-FFFFFF.svg?&style=for-the-badge&logo=mariadb&logoColor=003545" />
-  <img src="https://img.shields.io/badge/-postgresql-FFFFFF.svg?&style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-</p>
-
-### DevOps
-<p>
-  <img src="https://img.shields.io/badge/-jenkins-FFFFFF.svg?&style=for-the-badge&logo=jenkins&logoColor=D24939" />
-  <img src="https://img.shields.io/badge/-apachetomcat-FFFFFF.svg?&style=for-the-badge&logo=apachetomcat&logoColor=F8DC75" />
-  <img src="https://img.shields.io/badge/-docker-FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/-postman-FFFFFF.svg?&style=for-the-badge&logo=postman&logoColor=FF6C37" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/-jquery-FFFFFF.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD" />
-  <img src="https://img.shields.io/badge/-bootstrap-FFFFFF.svg?&style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-</p>
-
-### IDE
-<p>
-  <img src="https://img.shields.io/badge/-idea-FFFFFF.svg?&style=for-the-badge&logo=intellijidea&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-eclipse-FFFFFF.svg?&style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
-</p>
-
-### Other
-<p>
-  <img src="https://img.shields.io/badge/-notion-FFFFFF.svg?&style=for-the-badge&logo=notion&logoColor=000000" />
-  <a href="https://seungwontech.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-tistory-FFFFFF.svg?&style=for-the-badge&logo=tistory&logoColor=000000" />
-  </a>
-</p>
+<table style="text-align: left;">
+  <tr>
+    <th>Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/-java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=000000" />
+      <img src="https://img.shields.io/badge/-javascript-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/-html5-FFFFFF.svg?&style=for-the-badge&logo=html5&logoColor=E34F26" />
+      <img src="https://img.shields.io/badge/-CSS3-FFFFFF.svg?&style=for-the-badge&logo=CSS3&logoColor=1572B6" />
+    </td>
+  </tr>
+ <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-mariadb-FFFFFF.svg?&style=for-the-badge&logo=mariadb&logoColor=003545" />
+      <img src="https://img.shields.io/badge/-postgresql-FFFFFF.svg?&style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+    </td>
+  </tr>
+ <tr>
+    <th>DevOps</th>
+    <td>
+      <img src="https://img.shields.io/badge/-jenkins-FFFFFF.svg?&style=for-the-badge&logo=jenkins&logoColor=D24939" />
+      <img src="https://img.shields.io/badge/-apachetomcat-FFFFFF.svg?&style=for-the-badge&logo=apachetomcat&logoColor=F8DC75" />
+      <img src="https://img.shields.io/badge/-docker-FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/-postman-FFFFFF.svg?&style=for-the-badge&logo=postman&logoColor=FF6C37" />
+    </td>
+  </tr>
+ <tr>
+    <th>Others</th>
+    <td>
+        <img src="https://img.shields.io/badge/-jquery-FFFFFF.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD" />
+        <img src="https://img.shields.io/badge/-bootstrap-FFFFFF.svg?&style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+        <img src="https://img.shields.io/badge/-idea-FFFFFF.svg?&style=for-the-badge&logo=intellijidea&logoColor=000000" />
+        <img src="https://img.shields.io/badge/-eclipse-FFFFFF.svg?&style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
+        <img src="https://img.shields.io/badge/-notion-FFFFFF.svg?&style=for-the-badge&logo=notion&logoColor=000000" />
+        <a href="https://seungwontech.tistory.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-tistory-FFFFFF.svg?&style=for-the-badge&logo=tistory&logoColor=000000" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 <a href="https://solved.ac/sw_lee" target="_blank">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sw_lee" />
