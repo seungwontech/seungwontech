@@ -17,7 +17,6 @@
     <th>Frameworks</th>
     <td>
       <img src="https://img.shields.io/badge/-springboot-FFFFFF.svg?&style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-      <img src="https://img.shields.io/badge/-springsecurity-FFFFFF.svg?&style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
     </td>
   </tr>
   <tr>
@@ -33,13 +32,11 @@
     <th>Databases</th>
     <td>
       <img src="https://img.shields.io/badge/-mariadb-FFFFFF.svg?&style=for-the-badge&logo=mariadb&logoColor=003545" />
-      <img src="https://img.shields.io/badge/-postgresql-FFFFFF.svg?&style=for-the-badge&logo=postgresql&logoColor=4169E1" />
     </td>
   </tr>
  <tr>
     <th>DevOps</th>
     <td>
-      <img src="https://img.shields.io/badge/-jenkins-FFFFFF.svg?&style=for-the-badge&logo=jenkins&logoColor=D24939" />
       <img src="https://img.shields.io/badge/-apachetomcat-FFFFFF.svg?&style=for-the-badge&logo=apachetomcat&logoColor=F8DC75" />
       <img src="https://img.shields.io/badge/-docker-FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/-postman-FFFFFF.svg?&style=for-the-badge&logo=postman&logoColor=FF6C37" />
@@ -49,7 +46,6 @@
     <th>Others</th>
     <td>
         <img src="https://img.shields.io/badge/-jquery-FFFFFF.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD" />
-        <img src="https://img.shields.io/badge/-bootstrap-FFFFFF.svg?&style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
         <img src="https://img.shields.io/badge/-idea-FFFFFF.svg?&style=for-the-badge&logo=intellijidea&logoColor=000000" />
         <img src="https://img.shields.io/badge/-eclipse-FFFFFF.svg?&style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
         <img src="https://img.shields.io/badge/-notion-FFFFFF.svg?&style=for-the-badge&logo=notion&logoColor=000000" />
