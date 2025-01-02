@@ -29,12 +29,4 @@
       <img src="https://img.shields.io/badge/-CSS3-FFFFFF.svg?&style=for-the-badge&logo=CSS3&logoColor=1572B6" />
     </td>
   </tr>
-    <th>DevOps & Others</th>
-    <td>
-      <img src="https://img.shields.io/badge/-docker-FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=2496ED" />
-      <img src="https://img.shields.io/badge/-postman-FFFFFF.svg?&style=for-the-badge&logo=postman&logoColor=FF6C37" />
-      <img src="https://img.shields.io/badge/-idea-FFFFFF.svg?&style=for-the-badge&logo=intellijidea&logoColor=000000" />
-      <img src="https://img.shields.io/badge/-eclipse-FFFFFF.svg?&style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
-    </td>
-  </tr>
 </table>
