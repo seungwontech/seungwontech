@@ -55,11 +55,3 @@
     </td>
   </tr>
 </table>
-
-<a href="https://solved.ac/sw_lee" target="_blank">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sw_lee" />
-</a>
-
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
