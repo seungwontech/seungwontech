@@ -21,7 +21,6 @@
       <img src="https://img.shields.io/badge/-jquery-FFFFFF.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD" />
       <img src="https://img.shields.io/badge/-html-FFFFFF.svg?&style=for-the-badge&logo=html5&logoColor=E34F26" />
       <img src="https://img.shields.io/badge/-CSS-FFFFFF.svg?&style=for-the-badge&logo=CSS3&logoColor=1572B6" />
-      <img src="https://img.shields.io/badge/-docker-FFFFFF.svg?&style=for-the-badge&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/-idea-FFFFFF.svg?&style=for-the-badge&logo=intellijidea&logoColor=000000" />
     </td>
   </tr>
